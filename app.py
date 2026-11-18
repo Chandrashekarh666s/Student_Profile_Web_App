@@ -50,7 +50,7 @@ div.stButton > button:hover {
 # Application heading
 st.title("🎓 Student Profile Application")
 
-st.caption("Developed by Gagan Gowda")
+st.caption("Developed by Deekshit G P")
 
 st.info("Fill in your details and click View My Profile.")
 
