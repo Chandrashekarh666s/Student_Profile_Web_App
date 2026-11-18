@@ -7,6 +7,7 @@ st.set_page_config(
     layout="centered"
 )
 
+
 # Custom dark theme styling
 st.markdown("""
 <style>
@@ -49,7 +50,7 @@ div.stButton > button:hover {
 # Application heading
 st.title("🎓 Student Profile Application")
 
-st.subheader("Developed by Student Name")
+st.subheader("Developed by ROCKING STAR Chandrashekar . H")
 
 st.info("Fill in your details and click View My Profile.")
 
